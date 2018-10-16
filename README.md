@@ -21,4 +21,5 @@ Next change to your app directirory and open it in your favorite editor. For thi
 [<img src="https://raw.githubusercontent.com/overlineink/slice/master/assets/images/screenshots/xampp.png" alt="Xampp Startup">](https://raw.githubusercontent.com/overlineink/slice/master/assets/images/screenshots/xampp.png)
 
 Enjoy!! 😃
+
 [<img src="https://raw.githubusercontent.com/overlineink/slice/master/assets/images/screenshots/heroapp.png" alt="Main screen">](https://raw.githubusercontent.com/overlineink/slice/master/assets/images/screenshots/heroapp.png)
