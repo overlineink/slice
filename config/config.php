@@ -7,7 +7,7 @@
 	define ('DEFAULT_CONTROLLER', 'Home');
 	define ('DEFAULT_LAYOUT', 'shared');
 	define ('SITE_TITLE', 'Hero App');
-    define ('PROOT', '/app/');
+    define ('PROOT', '/slice/');
     
     // Database config
     define ('DB_HOST', '127.0.0.1');
