@@ -6,7 +6,7 @@
     define ('DEBUG', true);
 	define ('DEFAULT_CONTROLLER', 'Home');
 	define ('DEFAULT_LAYOUT', 'shared');
-	define ('SITE_TITLE', 'Hero App');
+	define ('SITE_TITLE', 'Slice Framework | Hero App');
     define ('PROOT', '/slice/');
     
     // Database config
