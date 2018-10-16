@@ -15,7 +15,7 @@ Next change to your app directirory and open it in your favorite editor. For thi
 
 #### Step 3. Modify the application's startup folder to the development pattern
 * Open `config` &rarr; `config.php`
-* Change the `PROOT` value to `your-app-folder-name`
+* Change the `PROOT` value to `/your-app-folder-name/`
 
 #### Step 4. Serve the application
 [<img src="https://raw.githubusercontent.com/overlineink/slice/master/assets/images/screenshots/xampp.png" alt="Xampp Startup">](https://raw.githubusercontent.com/overlineink/slice/master/assets/images/screenshots/xampp.png)
