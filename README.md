@@ -18,7 +18,7 @@ Next change to your app directirory and open it in your favorite editor. For thi
 * Change the `PROOT` value to `your-app-folder-name`
 
 #### Step 4. Serve the application
-[<img src="https://github.com/overlineink/slice/tree/master/assets/images/screenshots/xampp.png" alt="Xampp Startup">](https://github.com/overlineink/slice/tree/master/assets/images/screenshots/xampp.png)
+[<img src="https://raw.githubusercontent.com/overlineink/slice/master/assets/images/screenshots/xampp.png" alt="Xampp Startup">](https://raw.githubusercontent.com/overlineink/slice/master/assets/images/screenshots/xampp.png)
 
 Enjoy!! 😃
-[<img src="https://github.com/overlineink/slice/tree/master/assets/images/screenshots/heroapp.png" alt="Xampp Startup">](https://github.com/overlineink/slice/tree/master/assets/images/screenshots/heroapp.png)
+[<img src="https://raw.githubusercontent.com/overlineink/slice/master/assets/images/screenshots/heroapp.png" alt="Main screen">](https://raw.githubusercontent.com/overlineink/slice/master/assets/images/screenshots/heroapp.png)
