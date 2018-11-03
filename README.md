@@ -1,5 +1,5 @@
 # Slice Framework
-Slice is an open source MVC framework written in php used to teach junior developers to meet and build a demo of the MVC pattern in php. 🐱‍💻
+Splice is an open source project that teach how to build an framework with php. Its was used to teach junior developers to meet and build a demo of the MVC pattern in php. 🐱‍💻
 
 # Get Started
 #### Step 1. Set up the Development Environment
